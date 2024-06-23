@@ -4171,6 +4171,9 @@ header .off-canvas-wrap .off-canvas-widget .widget.social-widget ul li a:hover {
   z-index: 1;
   margin-bottom: 30px;
 }
+.portfolio-section{
+  background: linear-gradient(180deg, #f8fcff 0%, white 100%);
+}
 
 .portfolio-section .portfolio-masonary-loop .portfolio-box.double-height {
   height: 670px;
