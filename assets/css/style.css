@@ -1446,7 +1446,7 @@ header .off-canvas-wrap .off-canvas-widget .widget.social-widget ul li a:hover {
   position: absolute;
   left: 0;
   top: 0;
-  content: url(../img/banner/line.png);
+  /* content: url(../img/banner/line.png); */
   z-index: -2;
 }
 
